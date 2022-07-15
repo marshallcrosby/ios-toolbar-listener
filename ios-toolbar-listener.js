@@ -1,5 +1,5 @@
 /*!
-    * Key Command Class Toggler v1.0.1
+    * iOS Toolbar Resize Listener v1.0.0
     * iOS has a "feature" where a large portion of the bottom of browser is the target area
       to activate the Safari bottom navigation bar. When a user clicks on the wellbar navigation items,
       and the navigation bar is hidden, it would activate the Safari bottom navigation bar instead
